@@ -1,0 +1,4 @@
+- check valid date
+- demander OVH pour texttopdf (http://www.foolabs.com/xpdf/download.html)
+- intégration gridstack pour réarranger, ajouter ou supprimmer restaurants
+- http://www.phpfastcache.com/
